@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CivilIDWeb", "CivilIDWeb\CivilIDWeb.csproj", "{6C34443D-502A-478F-86B3-89FD9F91E2CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9AFD8CA7-687A-4040-BC13-8E86DAED360A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C34443D-502A-478F-86B3-89FD9F91E2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C34443D-502A-478F-86B3-89FD9F91E2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C34443D-502A-478F-86B3-89FD9F91E2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C34443D-502A-478F-86B3-89FD9F91E2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75CFE6CF-D9D4-4B76-96B6-46C2CC332007}
+	EndGlobalSection
+EndGlobal
